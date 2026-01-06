@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ketan Sharma
 
 🎓 **BCA Data Science Student**  
 📍 **Acharya Institute**
