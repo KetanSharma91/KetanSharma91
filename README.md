@@ -40,6 +40,7 @@ I’m passionate about building modern web & mobile applications, exploring data
 ## 📂 Featured Projects
 
 - **https://saas-app-tdsx.vercel.app/** — A SaaS app build using tailwind, TypeScript, Next.Js framework, using mongodb as database.
+- **https://pixora-blush.vercel.app/** - A canva-like site Pixora build using Next.js tailwind.
 
 ---
 
