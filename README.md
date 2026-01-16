@@ -26,7 +26,13 @@ I’m passionate about building modern web & mobile applications, exploring data
 - Git & GitHub  
 - VS Code  
 - Firebase  
-- Node.js (basics)  
+- Node.js
+
+### **Data Analytics & ML**
+- Power Bi
+- MS Excel 
+- clustering, regression, decision trees,
+- NumPy, Pandas, Matplotlib, Seaborn, plotly, PyTorch, Scikit-Learn
 
 ---
 
@@ -70,7 +76,7 @@ I’m passionate about building modern web & mobile applications, exploring data
 
 ## 📫 Connect With Me
 - LinkedIn: *https://www.linkedin.com/in/ketan-sharma-b1b0a5288/*  
-- Portfolio: *https://ketansharma91.github.io/KetanSharma91/*  
+- Portfolio: 
 
 ---
 
