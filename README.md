@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ketan Sharma
 
 🎓 **BCA Data Science Student**  
-📍 **Acharya Institute**
+📍 **Acharya Institutes**
 
 I’m passionate about building modern web & mobile applications, exploring data science, and continuously learning new technologies.
 
@@ -39,14 +39,16 @@ I’m passionate about building modern web & mobile applications, exploring data
 ## 📌 About Me
 - 🌱 Currently learning **full-stack development** & **machine learning**  
 - 🔭 Working on **React + Next.js projects**  
-- 💡 Interested in **AI/ML**, **Data Science**, and **mobile app development**
+- 💡 Interested in **AI/ML**, **Data Science**, and **Full Stack development**
 
 ---
 
 ## 📂 Featured Projects
 
-- **https://saas-app-tdsx.vercel.app/** — A SaaS app build using tailwind, TypeScript, Next.Js framework, using mongodb as database.
 - **https://pixora-blush.vercel.app/** - A canva-like site Pixora build using Next.js tailwind.
+- **https://saas-app-tdsx.vercel.app/** — A SaaS app build using tailwind, TypeScript, Next.Js framework, using mongodb as database.
+- **https://resumind-kp4o.onrender.com/** - Resume analyzer site using react, TypeScript, Puter Ai, Tailwind CSS.
+- **https://6966497e871969c75ff0.appwrite.network/** -  Social Media App built using react JS, TypeScript, appwrite, react router.
 ---
 
 ## 📂 Other Projects
@@ -65,14 +67,10 @@ I’m passionate about building modern web & mobile applications, exploring data
 ### React, Next.Js Projects 
 - **https://ketansharma91.github.io/TextUtils/**
 - **https://ketansharma91.github.io/Brainwave/**
-- **https://ketansharma91.github.io/3d-Apple/**
+- **https://ketansharma91.github.io/3D-Apple/**
 - **https://ketansharma91.github.io/3D_Portfolio/**
 - **https://ketansharma91.github.io/YTGTA/**
-
-# Featured React, Next.js Projects
-- **https://resumind-kp4o.onrender.com/**
-- **https://6966497e871969c75ff0.appwrite.network/** -  Social Media App 
-
+---
 
 ## 📫 Connect With Me
 - LinkedIn: *https://www.linkedin.com/in/ketan-sharma-b1b0a5288/*  
