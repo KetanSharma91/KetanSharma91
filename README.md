@@ -63,6 +63,41 @@ Cross-platform mobile app managing 50+ SKUs with barcode scanning, real-time bil
 
 ---
 
+### [Wallet APP](https://github.com/KetanSharma91/macOsPortolio/releases/download/v1.1.0/wallet_app.apk) — 📲 Download APK
+> React Native · Node.js · Neon · Clerk · JWT · iOS & Android
+
+ Personal finance tracker with balance sheets and expense categorisation.
+ 
+---
+
+### [Notes App](https://notes-wrc6.onrender.com/)
+> MERN · React · MongoDB · Express · Node.js
+
+Full MERN stack with Google Keep-style UI; auth-protected, fully self-built.
+
+---
+
+### [Student Roadmap Generator](https://roadmapy-e7rw.onrender.com)
+> HTML · CSS · Node.js · Express · Puter AI
+
+College project; generates personalised learning roadmaps via Puter AI.
+
+---
+
+### [News Aggregator](https://newsapp-f2bw.onrender.com)
+> React · CSS · NewsApp API · Puter AI
+
+React app consuming TheNewsAPI with category filters (health, sports, politics) and source filters (Times of India etc.). 
+
+---
+
+### [URL Shortener](https://urlshortener-ikic.onrender.com/)
+> React · CSS · Node.js · Express · MongoDb
+
+URL Link shortner like bit.ly fast better no sign up or log in Custom slugs, redirect logic, click tracking 
+
+---
+
 ## 🌐 Other Deployed Projects
 
 | Project | Stack | Live |
